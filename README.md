@@ -1,4 +1,4 @@
-# Rock.it team
+# Rock.it squad
 
 ## Associated Full Stack Developer
 
